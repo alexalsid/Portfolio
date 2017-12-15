@@ -1,0 +1,226 @@
+* {margin: 0px;
+	padding: 0px;}
+
+	@fontface {font-family: "Playfair Display"
+src: url(fonts/PlayfairDisplay-Black);}
+
+body {background-color: #f2f2f2;
+font-family: Arial, sans-serif;
+font-size: 100%;}
+
+header {background-color: #262626;
+width: 100vw;
+height: 10vh;
+min-height: 10vh;
+position: fixed;
+margin: 0px;
+border: 0px;
+padding: .2%;
+opacity: .8;
+filter: Alpha(opacity=80);
+top: 0;}
+
+
+
+.hero {position: static;
+padding: 0;}
+
+
+.navagation ul{
+	font: bold 1em "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	font-color: #f2f2f2; 
+	text-transform: uppercase;
+	float: right;
+	text-decoration: nounderline; 
+margin-top: .8%;
+margin-right: 3%;
+margin-left: auto;
+margin-bottom: auto;} 
+
+.navagation li {display: inline-block;
+	color: #f2f2f2;
+padding-right: 1em;
+padding-left: 1em;
+padding-top: 0em;
+padding-bottom: 0em;}
+
+.navagation a{color: #f2f2f2;
+text-decoration: none;}
+
+.navagation a:hover {color: #f44336;}
+
+.container-fluid {margin: auto;
+position: static;
+width: 100%;
+height: auto;}
+
+.hero {width: 100vw;
+height: 100vh;
+position: static;}
+
+.hero h1{font-family: "Playfair Display";
+font-size: 6em;
+color: #f2f2f2;
+text-align: center;}
+
+#textbox {width: 50%;
+height: 30vh;
+
+opacity: .8;
+filter: Alpha(opacity="80");
+position: absolute;
+top: 30%;
+left: 0;
+right: 0;
+margin: auto;
+padding-top: 5%;}
+
+#scroll 
+{width: 40px;
+height: 40px;
+background-color: black;
+margin: auto;
+position: absolute;
+top: 91%;
+left: 0;
+right: 0}
+
+.about #aboutcont {width: 100%;
+heigh: auto;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 1em;
+margin: 4% auto;
+padding-top: 2.55%;}
+
+.about h1{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 3em;
+text-align: center;}
+
+#textborder {width: 75%;
+height: 600px;
+background-color: black;
+margin: 5vh auto;
+position: static;
+padding-top: 5px;}
+
+#biocontainer {width: 95%;
+height: 575px;
+margin-top: 5px;
+margin-left: 2.5%;
+margin-right: 2.5%;
+margin-bottom: 0;
+background-color: white;
+padding-top: 20px;}
+
+.projects #projects {margin: 0 auto;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 1em;
+position: static;
+width: 100%;}
+
+.projects h1 {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 1em;
+text-transform: uppercase;
+font-style: thin;
+color: #f44336;
+text-align: center;}
+
+#projectscontainer
+{width: 92%;
+height: 600px;
+background-color: black;
+margin: 10% auto;
+padding-top: 1%;
+padding-bottom: 0;}
+
+#row1 {width: 100%;
+height: 260px;
+background-color: black;
+margin: 10px auto;
+text-align: center;}
+
+#row2 {width: 100%;
+height: 260px;
+background-color: black;
+margin: 0 auto;
+text-align: center;}
+
+
+.col {width: 30%;
+	height: 260px;
+display: inline-block;
+float: center;
+background-color: black;
+float: center;
+margin: 0 2px 0 2px;}
+
+#contact {background-color: black;
+	width: 92%;
+	height: auto;
+	margin: 10% auto;
+	font-color: white;
+	padding: 4%;
+	font-color: white;}
+
+#contact form {text-align: center;}
+
+
+
+#name input[type="text"] 
+{background-color: white;
+ width: 60%;
+ height: 30px;
+ color: black;}
+
+ #comment input[type="text"] 
+{background-color: white;
+ width: 60%;
+ height: 80px;
+ color: black;}
+
+ #contact p {color: white;
+ 	font-size: 2em;
+ 	text-align: center;}
+
+ #contact input[type="submit"] 
+ {background-color: #f44336;
+  color: white;
+ font-size: 150%;
+ border: none;
+ padding: 10px 50px;
+ margin: 2% auto 0 auto;}
+
+
+  
+
+.footer {width: 96%;
+		height: 4vh;
+		padding: 2%; 
+		background-color: black;}
+
+.footer ul {
+text-align: center;
+}
+
+.footer li {display: inline-block;}
+
+.footer a {color: white;
+font-size: 1em;
+text-decoration: none;
+font-size: 1em;
+padding: 10px 5px;
+margin: auto 20px;
+font-family: monospace;
+}
+
+.footer a:hover {color: #f44336;}
+
+
+
+
+
+
+
+
+

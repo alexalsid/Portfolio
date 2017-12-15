@@ -1,0 +1,89 @@
+* {margin: 0;
+padding: 0;}
+
+
+
+header {height: 62vh;
+width: 77%;
+background-color: blue;
+margin-left: 17%;
+padding: 12vh 0 0 6%;
+}
+
+#hero {height: 70vh;
+width: 30%;
+position: absolute;
+top: 12vh;
+left: 45%;
+background-color: black;}
+
+header p{padding-bottom: 20vh;}
+
+#view {height: 30px;
+width: 120px;
+background-color: white;
+text-align: center;
+padding-top: 10px;
+margin-left: 10%;}
+
+header h1 {font-size: 3em;
+color: white;
+position: absolute;
+left: 30%;
+top: 20vh;}
+
+#small-img {height: 20vh;
+width: 10%;
+background-color: orange;
+position: absolute;
+top: 62vh;
+left: 75%;}
+
+
+#img-1 {height: 30vh;
+width: 25%;
+background-color: green;
+position: absolute;
+left: 20%;
+top: 62vh;}
+
+main {width: 86%;
+height: 80vh;
+margin: 25vh 7% 0 7%;
+position: relative;}
+
+#description {width: 40%;
+height: 60vh;
+background-color: grey;
+}
+
+#img-2 {height: 40vh;
+width: 40%;
+position: absolute;
+left: 17%;
+top: 10vh;
+background-color: green;
+}
+
+
+#text-box {width: 20%;
+height: 60vh;
+background-color: grey;}
+
+footer {width: 100%;
+	height: 5vh;
+	background-color: black;
+	padding: 1.5vh 0;}
+
+footer ul {margin-left: 3%;
+	margin-right: 50%;}
+
+footer li {display: inline-block;
+	padding: 0 30px;
+	font-size: 1.3em;
+	text-decoration: none;}
+
+footer a {
+	text-decoration: none;
+	color: white;}
+
